@@ -1,0 +1,21 @@
+	body {
+			background-color: #659DBD;
+		}
+		h1 {
+			font-size: x-large;
+			font-family: Acme;
+			color: white;
+			text-align: center;
+		}
+		h2 {
+			font-size: large;
+			font-family: verdana;
+			color: white;
+			text-align: center;
+		}
+		img {
+			align-content: center;
+		}
+		li {
+			color: black;
+			font-size: large;
