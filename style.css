@@ -2,20 +2,35 @@
 			background-color: #659DBD;
 		}
 		h1 {
-			font-size: x-large;
+			font-size: 33pt;
 			font-family: Acme;
 			color: white;
 			text-align: center;
 		}
 		h2 {
-			font-size: large;
-			font-family: verdana;
+			font-size: 22pt;
+			font-family: 'IBM Plex Serif', serif;
+			font-family: 'Varela Round', sans-serif;
 			color: white;
-			text-align: center;
 		}
-		img {
-			align-content: center;
+		h3 {
+			font-size: 18pt;
+			text-align: center;
+			font-family: 'Varela Round', sans-serif;
 		}
 		li {
 			color: black;
-			font-size: large;
+			font-size: 16pt;
+			font-family: 'IBM Plex Serif', serif;
+			font-family: 'Varela Round', sans-serif;
+		}
+		p {
+			font-size: 14pt;
+		}
+
+		ol {
+			font-size: 14pt;
+		}
+		a {
+			color: white;
+		}
